@@ -1,4 +1,4 @@
-# Telecom-Churn_Prediction
+# Telecom-Churn_Prediction (PYTHON and R)
 
 Project Background: In telecommunications industry, customers are able to easily switch between different service providers and it costs company 5-10 times more to acquire a new customer than to retain the existing customers. Hence controlling churn has gained a lot of importance in the industry.
 
