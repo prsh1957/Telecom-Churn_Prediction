@@ -6,7 +6,7 @@ Objective: The goal is to determine the ability of different factors such as min
 
 Granularity: This study examines customer churn at the individual account level.
 
-Scope: To build a tree model and a logistic regression model for predicting churn as a dependent variable with independent variables like average minutes of usage, average revenue etc. to determine which factors are significant in prediction of the churn.  
+Scope: To build a different analytical models for predicting churn as a dependent variable with independent variables like average minutes of usage, average revenue etc. to determine which factors are significant in prediction of the churn.  
 
 The focus of the models was on reducing ‘Type I error’ (or increasing sensitivity),  as the objective of this study is to help the retention programmes of the service provider by predicting churn.
 
